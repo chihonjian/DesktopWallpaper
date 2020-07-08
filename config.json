@@ -6,6 +6,6 @@
 
   "r": "<link id=\"bgLink\" rel=\"preload\" href=\"(.*?)\" as=\"image\"",
 
-  "pathImg":".\\imgs"
+  "pathImg":"C:\\"
 
 }
