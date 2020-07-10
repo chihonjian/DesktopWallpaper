@@ -2,7 +2,7 @@
   "time": "12",
   "url_source": "https://cn.bing.com/",
 
-  "url": "https://cn.bing.com/?FORM=BEHPTB&ensearch=1",
+  "url": "https://cn.bing.com/?FORM=BEHPTB",
 
   "r": "<link id=\"bgLink\" rel=\"preload\" href=\"(.*?)\" as=\"image\"",
 

@@ -1,4 +1,4 @@
-import ctypes,requestsImg,time,json
+import ctypes,requestsImg,time,json,encodefix
 
 with open('./config.json','r',encoding='utf8')as fp:
     json_data = json.load(fp)
